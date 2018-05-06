@@ -1,0 +1,3 @@
+/tmp/images/*
+!.keep
+!/tmp/opend_url.txt
